@@ -1,0 +1,7 @@
+Its all about changing the datafram
+	when the user select the radio button the input going to change the datfram that going to
+
+ be use 
+	when the dropdown button change the input goign to change the datafram that going to be us
+
+from dash.dependencies import Input, Output
